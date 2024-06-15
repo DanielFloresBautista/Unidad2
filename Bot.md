@@ -40,9 +40,9 @@ separadores en el número de teléfono.
 
 \b: Coincide con otro límite de palabra para finalizar el número de teléfono
 
-![imagen2](https://github.com/DanielFloresBautista/Unidad2/issues/3#issue-2354537926)
+![imagen1](https://github.com/DanielFloresBautista/Unidad2/issues/3#issue-2354537926)
 
-![Imagen1](https://github.com/DanielFloresBautista/Unidad2/issues/1)
+![Imagen2](https://github.com/DanielFloresBautista/Unidad2/issues/1)
 
 ## Codigo complepo para la relaizacion del bot
 > ```python
